@@ -1,4 +1,4 @@
-# Item-to-Item-collaberative-filtering
+
 <h1>Item-Item Collaborative filtering:</h1>
 <h4></i>Let ‘x’ be the product that we need to determine the rating that will be given by the user based on ratings given to similar products by the user.
 Let ‘n’ be similar products that are present in user’s past order data.
