@@ -7,6 +7,7 @@ Then to find the rating of ‘x’ product is
 Here, "r_u_i" are the ratings that the user "u" has given to similar items, and "sim(i_new, i_i)" is the similarity between the new product and each past product.
 based on ratings rank will be assigned
 Top-ranked products will be recommended first</h4>
+Hi
  
 
 
